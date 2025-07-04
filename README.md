@@ -7,7 +7,7 @@
   </ul>
 
    <ul align= "center">
-        <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+studyin+Software+Engineering"/></a>
+        <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=40&lines=Welcome+to+my+GitHub+Profile!;I'm+a+studyin+Software+Engineering"/></a>
     </ul>
 </div>
 
@@ -168,7 +168,7 @@
 
 <p align="center">
   <a href="https://github.com/GARO99/CourseConnect.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GARO99&repo=Gestion_productos&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GARO99&repo=CourseConnect&theme=tokyonight" />
   <a href="https://github.com/Santiagocsie/Gestion_productos">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Santiagocsie&repo=Gestion_productos&theme=tokyonight" />
   </a>
@@ -188,7 +188,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArDavid14&repo=SisDistribuidos&theme=tokyonight" />
   </a>
   <a href="https://github.com/UMBDavidC/Taller-progam">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=UMBDavidC&repo=Taller-program&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=UMBDavidC&repo=Taller-progam&theme=tokyonight" />
   </a>
 </p>
 
