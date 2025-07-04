@@ -25,7 +25,7 @@
 
 ## 🛠️ My Skills
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px>  </picture> Programming languages
+### <picture> <img src = "https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Programming_Languages.gif raw=true" width = 20px>  </picture> Programming languages
 
 <p align="left">
   <!--- stats (start) -->
@@ -45,16 +45,51 @@
   </td>
 </tr>
 <tr border="none">
-<td>
+<h3>Languages</h3>
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
+    width="60px"
+    alt="Java">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/groovy/groovy-original.svg"
+    width="60px"
+    alt="Groovy">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
+    width="60px"
+    alt="Typescript">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+    width="60px"
+    alt="Javascript">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"
+    width="60px"
+    alt="HTML5">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"
+    width="60px"
+    alt="css3">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg"
+    width="60px"
+    alt="sass">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+</tr>
+</table>
+
 <h1>🐍 A Snake Eating my Contributions Graph</h1>
 	
 <p align="center">
   <img src="https://github.com/ArDavid14/ArDavid14/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
-</td>
 
-</tr>
-</table>
 <!--- stats (end) -->
 
 <br>
