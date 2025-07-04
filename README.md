@@ -44,6 +44,13 @@
 
   </td>
 </tr>
+<tr border="none">
+<h1>🐍 A Snake Eating my Contributions Graph</h1>
+	
+<p align="center">
+  <img src="https://github.com/ArDavid14/ArDavid14/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+</tr>
 </table>
 <!--- stats (end) -->
 
