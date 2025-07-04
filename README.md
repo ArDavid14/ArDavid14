@@ -11,8 +11,8 @@
 <!--About Me-->
 
 <br><br>
-<img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 40px height=40px>
-<h2 align="left" font-weight="bold">&nbsp;About me</h2>  
+<img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px>
+<h2 align="left" font-weight="bold">&nbsp;&nbsp;About me</h2>  
 <br><br>
 
 
@@ -28,13 +28,10 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">🛠️ My Skills </h3>
-<div align="center" width="100"> 
-</br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h2 align="left" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">🛠️ My Skills </h3>
 
 <div align="center" width="100">
-    <h3>Languages</h3>
+    <h3>Technologies & Tools</h3>
         <img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
             width="40px"
@@ -42,8 +39,13 @@
             &nbsp;&nbsp;&nbsp;&nbsp;
         <img
             src="https://cdn.iconscout.com/icon/free/png-256/mysql-3521596-2945040.png"
-            width="40px"
-            alt="Java">
+            width="50px"
+            alt="sql">
+            &nbsp;&nbsp;&nbsp;&nbsp;
+        <img
+            src="https://cdn.iconscout.com/icon/free/png-256/php-2752101-2284918.png"
+            width="50px"
+            alt="php">
             &nbsp;&nbsp;&nbsp;&nbsp;
         <img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
@@ -65,11 +67,58 @@
             width="60px"
             alt="sass">
             &nbsp;&nbsp;&nbsp;&nbsp;
+        <img
+            src="https://cdn.iconscout.com/icon/free/png-256/laravel-3-1175147.png"
+            width="60px"
+            alt="laravel">
+            &nbsp;&nbsp;&nbsp;&nbsp;
+        <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg"
+            width="60px"
+            alt="VS Code">
+            &nbsp;&nbsp;&nbsp;&nbsp;
+        <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"
+            width="60px"
+            alt="NodeJS">
+            &nbsp;&nbsp;&nbsp;&nbsp;
+        <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg"
+            width="60px"
+            alt="npm">
+            &nbsp;&nbsp;&nbsp;&nbsp;
+        <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"
+            width="60px"
+            alt="React">
+            &nbsp;&nbsp;&nbsp;&nbsp;
+        <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-plain-wordmark.svg"
+            width="60px"
+            alt="Bootstrap">
+            &nbsp;&nbsp;&nbsp;&nbsp;
+        <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"
+            width="60px"
+            alt="PostgreSQL">
+            &nbsp;&nbsp;&nbsp;&nbsp;
+        <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"
+            width="60px"
+            alt="Git">
+            &nbsp;&nbsp;&nbsp;&nbsp;
+        <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg"
+            width="60px"
+            alt="Jira">
+            &nbsp;&nbsp;&nbsp;&nbsp;
+        <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-plain-wordmark.svg"
+            width="60px"
+            alt="Trello">
+            &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 </br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
   <p align="left">
   <!--- stats (start) -->
   <table align="center">
@@ -133,12 +182,10 @@
   </a>
 </p>
 
-
-
 <!--horizontal divider(gradiant)-->
+<br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 <p align="center">
