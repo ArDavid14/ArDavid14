@@ -7,6 +7,7 @@
   </ul>
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--About Me-->
 
@@ -118,10 +119,10 @@
             alt="Trello">
             &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
-</br>
+
   <p align="left">
   <!--- stats (start) -->
-  <h2 align="left" font-weight="bold"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Stats</h2>
+  <p align="center" font-weight="bold"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Stats</p>
   <table align="center" border= "none">
     <tr border="none">
      <td width="50%" align="center">
