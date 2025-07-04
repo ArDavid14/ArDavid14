@@ -22,7 +22,7 @@
 - 💡 Passionate about continuous learning and solving real-world problems.
 
 <br>
-
+<div align="center" width="100">
 ## 🛠️ My Skills
 
 ### <picture> <img src = "https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Programming_Languages.gif raw=true" width = 20px>  </picture> Programming languages
@@ -45,27 +45,18 @@
   </td>
 </tr>
 </table>
-<br>
+</div>
+<br></br>
 <div align="center" width="100">
     <h3>Languages</h3>
         <img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
-            width="60px"
+            width="40px"
             alt="Java">
             &nbsp;&nbsp;&nbsp;&nbsp;
         <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/groovy/groovy-original.svg"
-            width="60px"
-            alt="Groovy">
-            &nbsp;&nbsp;&nbsp;&nbsp;
-        <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
-            width="60px"
-            alt="Typescript">
-            &nbsp;&nbsp;&nbsp;&nbsp;
-        <img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
-            width="60px"
+            width="40px"
             alt="Javascript">
             &nbsp;&nbsp;&nbsp;&nbsp;
         <img
@@ -83,13 +74,11 @@
             width="60px"
             alt="sass">
             &nbsp;&nbsp;&nbsp;&nbsp;
-
-            
 </div>
 <br>
 
 
-<br>
+</br>
 
 <h1 align = "center">🐍 A Snake Eating my Contributions Graph</h1>
 	
