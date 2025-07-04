@@ -45,18 +45,53 @@
   </td>
 </tr>
 <tr border="none">
+<td>
 <h1>🐍 A Snake Eating my Contributions Graph</h1>
 	
 <p align="center">
   <img src="https://github.com/ArDavid14/ArDavid14/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
+</td>
+
 </tr>
 </table>
 <!--- stats (end) -->
 
 <br>
-## 🐍 A Snake Eating my Contributions Graph
-	
+	<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+<!-- Proyectos destacados -->
+## 🚀 My Projects
+
 <p align="center">
-  <img src="https://github.com/ArDavid14/ArDavid14/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <a href="https://github.com/Santiagocsie/Gestion_productos">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Santiagocsie&repo=Gestion_productos&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Santiagocsie/React-CRUD">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Santiagocsie&repo=React-CRUD&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Santiagocsie/Lavarel_Crud">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Santiagocsie&repo=Lavarel_Crud&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Santiagocsie/Ecomapeobotanico">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Santiagocsie&repo=Ecomapeobotanico&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Santiagocsie/Nutridatagram">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Santiagocsie&repo=Nutridatagram&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/ArDavid14/SisDistribuidos">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArDavid14&repo=SisDistribuidos&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Santiagocsie/Restaurante">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Santiagocsie&repo=Restaurante&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Santiagocsie/Taller-program">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Santiagocsie&repo=Taller-program&theme=tokyonight" />
+  </a>
 </p>
+
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
