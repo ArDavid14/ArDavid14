@@ -2,7 +2,7 @@
 
 
 <div id="user-content-toc">
-  <ul align="left">
+  <ul align="Center">
     <summary><h1 style="display: inline-block">Hi there👋, I'm David </h1></summary>
   </ul>
 </div>
@@ -28,10 +28,10 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-<h2 align="left" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">🛠️ My Skills </h3>
+<h2 align="left" font-weight="bold">🛠️ My Skills </h2>
 
 <div align="center" width="100">
-    <h3>Technologies & Tools</h3>
+    <h2 font-weight="bold">Technologies & Tools</h2>
         <img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
             width="60px"
@@ -115,13 +115,14 @@
         <img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-plain-wordmark.svg"
             width="60px"
-            alt="Trello" style = "background:#ffff;">
+            alt="Trello">
             &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 </br>
   <p align="left">
   <!--- stats (start) -->
-  <table align="center">
+  <h2 align="left" font-weight="bold"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Stats</h2>
+  <table align="center" border= "none">
     <tr border="none">
      <td width="50%" align="center">
        <img  align="left"  src="https://github-readme-stats.vercel.app/api?username=ArDavid14&theme=dark&show_icons=true&count_private=true" />
@@ -144,13 +145,16 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-### <h1 align = "center">🐍 Contributions Graph</h1>
+<h2 align="center">🐍 Contributions Graph</h2>
 	
 <p align="center">
   <img src="https://github.com/ArDavid14/ArDavid14/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 <!--- stats (end) -->
+<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 <!-- Proyectos destacados -->
 ## 🚀 My Projects
@@ -174,9 +178,6 @@
   <a href="https://github.com/ArDavid14/SisDistribuidos">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArDavid14&repo=SisDistribuidos&theme=tokyonight" />
   </a>
-  <a href="https://github.com/Santiagocsie/Restaurante">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Santiagocsie&repo=Restaurante&theme=tokyonight" />
-  </a>
   <a href="https://github.com/Santiagocsie/Taller-program">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Santiagocsie&repo=Taller-program&theme=tokyonight" />
   </a>
@@ -186,7 +187,7 @@
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+<h3 align="center"> Connect with me 🤝 </h3>
 
 <p align="center">
 
