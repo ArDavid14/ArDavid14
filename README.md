@@ -44,7 +44,8 @@
 
   </td>
 </tr>
-<tr border="none">
+</table>
+
 <h3>Languages</h3>
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
@@ -81,8 +82,10 @@
     width="60px"
     alt="sass">
     &nbsp;&nbsp;&nbsp;&nbsp;
-</tr>
-</table>
+
+
+
+<br>
 
 <h1>🐍 A Snake Eating my Contributions Graph</h1>
 	
