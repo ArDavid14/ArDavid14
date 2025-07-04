@@ -21,33 +21,9 @@
 - ⚙️ I'm proficient in `Python`, `Java`, `PHP` and frameworks like `Laravel`, `Django`, `Spring Boot`, `React`.
 - 💡 Passionate about continuous learning and solving real-world problems.
 
-<br>
-<div align="center" width="100">
-    ## 🛠️ My Skills
+</br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### <picture> <img src = "https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Programming_Languages.gif raw=true" width = 20px>  </picture> Programming languages
-
-  <p align="left">
-  <!--- stats (start) -->
-  <table align="left">
-    <tr border="none">
-     <td width="50%" align="center">
-       <img  align="left"  src="https://github-readme-stats.vercel.app/api?username=ArDavid14&theme=dark&show_icons=true&count_private=true" />
-       <br></br>
-       <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ArDavid14&theme=dark&hide_border=false" /> 
-     </td>
-
-
-   <td width="50%" align="center">
-
-   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ArDavid14&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=7"/>
-
-   </td>
-   </tr>
-  </table>
-</div>
-
-<br></br>
 <div align="center" width="100">
     <h3>Languages</h3>
         <img
@@ -76,11 +52,40 @@
             alt="sass">
             &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
-<br></br>
+</br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center" width="100">
+ 🛠️ My Skills
+
+### <picture> <img src = "https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Programming_Languages.gif raw=true" width = 20px>  </picture> Programming languages
+
+  <p align="left">
+  <!--- stats (start) -->
+  <table align="left">
+    <tr border="none">
+     <td width="50%" align="center">
+       <img  align="left"  src="https://github-readme-stats.vercel.app/api?username=ArDavid14&theme=dark&show_icons=true&count_private=true" />
+       <br></br>
+       <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ArDavid14&theme=dark&hide_border=false" /> 
+     </td>
+
+
+   <td width="50%" align="center">
+
+   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ArDavid14&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=7"/>
+
+   </td>
+   </tr>
+  </table>
+</div>
+
+
+</br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-<h1 align = "center">🐍 A Snake Eating my Contributions Graph</h1>
+## <h1 align = "center">🐍 A Snake Eating my Contributions Graph</h1>
 	
 <p align="center">
   <img src="https://github.com/ArDavid14/ArDavid14/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
