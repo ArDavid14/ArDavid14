@@ -1,21 +1,31 @@
-## Hi there 👋
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!--
-**ArDavid14/ArDavid14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--h1 without bottom border-->
 
-Here are some ideas to get you started:
+<div id="user-content-toc">
+  <ul align="left">
+    <summary><h1 style="display: inline-block">Hi there👋, I'm David </h1></summary>
+  </ul>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
-<!--- stats & Trophy (start) -->
+<!--About Me-->
+
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
+
+<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
+
+- 🎓 I'm currently in my final semester of Software Engineering.
+- 💻 I love building software solutions and learning new technologies.
+- 🚀 I'm looking for my first opportunity as a **Software Developer** or **Software Engineer**.
+- ⚙️ I'm proficient in `Python`, `Java`, `PHP` and frameworks like `Laravel`, `Django`, `Spring Boot`, `React`.
+- 💡 Passionate about continuous learning and solving real-world problems.
+
+<br>
+
+## 🛠️ My Skills
+
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px>  </picture> Programming languages
 
 <p align="left">
   <!--- stats (start) -->
@@ -24,7 +34,7 @@ Here are some ideas to get you started:
 <td width="50%" align="center">
   <img  align="left"  src="https://github-readme-stats.vercel.app/api?username=ArDavid14&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ElioChArDavid14iu&theme=dark&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ArDavid14&theme=dark&hide_border=false" /> 
 </td>
 
 
