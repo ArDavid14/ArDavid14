@@ -1,6 +1,5 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!--h1 without bottom border-->
 
 <div id="user-content-toc">
   <ul align="left">
@@ -11,7 +10,11 @@
 
 <!--About Me-->
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
+<br><br>
+<img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px>
+<h2 align="left" font-weight="bold">About me</h2>  
+<br><br>
+
 
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
@@ -55,8 +58,8 @@
 </br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+## 🛠️ My Skills
 <div align="center" width="100">
- 🛠️ My Skills
 
 ### <picture> <img src = "https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Programming_Languages.gif raw=true" width = 20px>  </picture> Programming languages
 
@@ -85,18 +88,13 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-## <h1 align = "center">🐍 A Snake Eating my Contributions Graph</h1>
+### <h1 align = "center">🐍 Contributions Graph</h1>
 	
 <p align="center">
   <img src="https://github.com/ArDavid14/ArDavid14/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 <!--- stats (end) -->
-
-<br>
-	<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 
 <!-- Proyectos destacados -->
 ## 🚀 My Projects
@@ -131,3 +129,9 @@
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
+	<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
