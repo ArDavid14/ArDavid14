@@ -11,8 +11,8 @@
 <!--About Me-->
 
 <br><br>
-<img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px>
-<h2 align="left" font-weight="bold">About me</h2>  
+<img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 40px height=40px>
+<h2 align="left" font-weight="bold">&nbsp;About me</h2>  
 <br><br>
 
 
@@ -27,6 +27,12 @@
 </br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">🛠️ My Skills </h3>
+<div align="center" width="100"> 
+</br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <div align="center" width="100">
     <h3>Languages</h3>
         <img
@@ -35,38 +41,7 @@
             alt="Java">
             &nbsp;&nbsp;&nbsp;&nbsp;
         <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
-            width="40px"
-            alt="Javascript">
-            &nbsp;&nbsp;&nbsp;&nbsp;
-        <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"
-            width="60px"
-            alt="HTML5">
-            &nbsp;&nbsp;&nbsp;&nbsp;
-        <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"
-            width="60px"
-            alt="css3">
-            &nbsp;&nbsp;&nbsp;&nbsp;
-        <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg"
-            width="60px"
-            alt="sass">
-            &nbsp;&nbsp;&nbsp;&nbsp;
-</div>
-</br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🛠️ My Skills
-<div align="center" width="100">
-</br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center" width="100">
-    <h3>Languages</h3>
-        <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
+            src="https://cdn.iconscout.com/icon/free/png-256/mysql-3521596-2945040.png"
             width="40px"
             alt="Java">
             &nbsp;&nbsp;&nbsp;&nbsp;
@@ -159,8 +134,29 @@
 </p>
 
 
+
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+
+<p align="center">
+
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/jundi-husni/">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" ></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/zeeid">
+		<img src="https://cdn.iconscout.com/icon/free/png-256/web-earth-online-market-planet-search-secure-1-9563.png" width="40" height="40"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/zeeidev/">
+			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/zeeidev">
+			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/c/ZeeiDeveloper">
+				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
+		<a style="margin-left: 5px;" target="_blank" href="https://play.google.com/store/apps/dev?id=5506644742288227696&hl=in&gl=US">
+					<img src="https://cdn.iconscout.com/icon/free/png-256/playstore-2002562-1687192.png" width="40" height="40"></a>
+      </div>
 
 <br>
 	<!--horizontal divider(gradiant)-->
