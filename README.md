@@ -34,7 +34,7 @@
     <h3>Technologies & Tools</h3>
         <img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
-            width="40px"
+            width="60px"
             alt="Java">
             &nbsp;&nbsp;&nbsp;&nbsp;
         <img
@@ -49,7 +49,7 @@
             &nbsp;&nbsp;&nbsp;&nbsp;
         <img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
-            width="40px"
+            width="50px"
             alt="Javascript">
             &nbsp;&nbsp;&nbsp;&nbsp;
         <img
@@ -115,7 +115,7 @@
         <img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-plain-wordmark.svg"
             width="60px"
-            alt="Trello">
+            alt="Trello" style = "background:#ffff;">
             &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 </br>
