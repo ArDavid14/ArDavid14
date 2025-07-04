@@ -60,12 +60,44 @@
 
 ## 🛠️ My Skills
 <div align="center" width="100">
+</br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### <picture> <img src = "https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Programming_Languages.gif raw=true" width = 20px>  </picture> Programming languages
+<div align="center" width="100">
+    <h3>Languages</h3>
+        <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
+            width="40px"
+            alt="Java">
+            &nbsp;&nbsp;&nbsp;&nbsp;
+        <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+            width="40px"
+            alt="Javascript">
+            &nbsp;&nbsp;&nbsp;&nbsp;
+        <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"
+            width="60px"
+            alt="HTML5">
+            &nbsp;&nbsp;&nbsp;&nbsp;
+        <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"
+            width="60px"
+            alt="css3">
+            &nbsp;&nbsp;&nbsp;&nbsp;
+        <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg"
+            width="60px"
+            alt="sass">
+            &nbsp;&nbsp;&nbsp;&nbsp;
+</div>
+</br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
   <p align="left">
   <!--- stats (start) -->
-  <table align="left">
+  <table align="center">
     <tr border="none">
      <td width="50%" align="center">
        <img  align="left"  src="https://github-readme-stats.vercel.app/api?username=ArDavid14&theme=dark&show_icons=true&count_private=true" />
