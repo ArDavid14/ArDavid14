@@ -6,16 +6,16 @@
     <summary><h1 style="display: inline-block">Hi there👋, I'm David </h1></summary>
   </ul>
 
-  <p>
-  <a align= "center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!I'm+a+studyin+Software+Engineering"/></a>
-</p>
+   <p align= "center">
+        <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+studyin+Software+Engineering"/></a>
+    </p>
 </div>
-
+<br><br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--About Me-->
 
-<br><br>
+
 <img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px>
 <h2 align="left" font-weight="bold">&nbsp;&nbsp;About me</h2>  
 <br><br>
@@ -23,11 +23,13 @@
 
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
-- 🎓 I'm currently in my final semester of Software Engineering.
-- 💻 I love building software solutions and learning new technologies.
-- 🚀 I'm looking for my first opportunity as a **Software Developer** or **Software Engineer**.
-- ⚙️ I'm proficient in `Python`, `Java`, `PHP` and frameworks like `Laravel`, `Django`, `Spring Boot`, `React`.
-- 💡 Passionate about continuous learning and solving real-world problems.
+- 🧠 I'm a tech enthusiast focused on building functional and scalable software.
+- 📘 Currently finishing my Software Engineering degree and ready to take the next professional step.
+- 🌱 Always eager to learn something new, especially in the world of programming and engineering.
+- 🧩 Comfortable working with technologies like `Python`, `Java`, `PHP`, `React`, `Django`, and `Laravel`.
+- 🔍 Looking for an environment where I can grow, contribute solutions, and tackle real-world challenges from day one.
+
+
 
 </br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
