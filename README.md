@@ -6,13 +6,13 @@
     <summary><h1 style="display: inline-block">Hi there👋, I'm David </h1></summary>
   </ul>
 
-   <p align= "center">
+   <ul align= "center">
         <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+studyin+Software+Engineering"/></a>
-    </p>
+    </ul>
 </div>
-<br><br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br><br>
 <!--About Me-->
 
 
@@ -164,29 +164,31 @@
 
 
 <!-- Proyectos destacados -->
-## 🚀 My Projects
+## 🚀 Projects
 
 <p align="center">
+  <a href="https://github.com/GARO99/CourseConnect.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArDavid14&repo=Gestion_productos&theme=tokyonight" />
   <a href="https://github.com/Santiagocsie/Gestion_productos">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Santiagocsie&repo=Gestion_productos&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArDavid14&repo=Gestion_productos&theme=tokyonight" />
   </a>
   <a href="https://github.com/Santiagocsie/React-CRUD">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Santiagocsie&repo=React-CRUD&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArDavid14&repo=React-CRUD&theme=tokyonight" />
   </a>
   <a href="https://github.com/Santiagocsie/Lavarel_Crud">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Santiagocsie&repo=Lavarel_Crud&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArDavid14&repo=Lavarel_Crud&theme=tokyonight" />
   </a>
   <a href="https://github.com/Santiagocsie/Ecomapeobotanico">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Santiagocsie&repo=Ecomapeobotanico&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArDavid14&repo=Ecomapeobotanico&theme=tokyonight" />
   </a>
   <a href="https://github.com/Santiagocsie/Nutridatagram">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Santiagocsie&repo=Nutridatagram&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArDavid14&repo=Nutridatagram&theme=tokyonight" />
   </a>
   <a href="https://github.com/ArDavid14/SisDistribuidos">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArDavid14&repo=SisDistribuidos&theme=tokyonight" />
   </a>
-  <a href="https://github.com/Santiagocsie/Taller-program">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Santiagocsie&repo=Taller-program&theme=tokyonight" />
+  <a href="https://github.com/UMBDavidC/Taller-progam">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArDavid14&repo=Taller-program&theme=tokyonight" />
   </a>
 </p>
 
