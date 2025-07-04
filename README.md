@@ -6,9 +6,9 @@
     <summary><h1 style="display: inline-block">Hi there👋, I'm David </h1></summary>
   </ul>
 
-   <ul align= "center">
-        <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+studyin+Software+Engineering"/></a>
-    </ul>
+   <p align= "left">
+        <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+studyin+Software+Engineering"/></a>
+    </p>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
