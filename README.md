@@ -190,6 +190,12 @@
   <a href="https://github.com/UMBDavidC/Taller-progam">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=UMBDavidC&repo=Taller-progam&theme=tokyonight" />
   </a>
+  <a href="https://github.com/ArDavid14/Juego-java.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArDavid14&repo=Juego-java&theme=tokyonight" />
+  </a>  
+  <a href="https://github.com/ArDavid14/Demandas.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArDavid14&repo=Demandas&theme=tokyonight" />
+  </a>  
 </p>
 
 <!--horizontal divider(gradiant)-->
